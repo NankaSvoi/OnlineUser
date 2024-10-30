@@ -43,4 +43,5 @@ fun main(args: Array<String>) {
             else -> "часов"
         }
         println("ТЕСТ")
+        println("fwrgtr")
     }
