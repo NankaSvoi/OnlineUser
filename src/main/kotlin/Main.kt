@@ -42,4 +42,5 @@ fun main(args: Array<String>) {
             hours % 10 in 2..4 -> "часа"
             else -> "часов"
         }
+        println("ТЕСТ")
     }
